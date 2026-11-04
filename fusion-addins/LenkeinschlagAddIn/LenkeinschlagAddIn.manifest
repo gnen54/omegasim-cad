@@ -1,0 +1,11 @@
+{
+	"autodeskProduct": "Fusion360",
+	"type": "addin",
+	"author": "OmegaSim (Gnen54 / Claude)",
+	"description": {
+		"": "Knopf „Lenkeinschlag“ in der Werkzeugleiste (Konstruktion → Prüfen): Vorderräder per Lenkwinkel bewegen, pendeln, Lenkfreiraum erzeugen"
+	},
+	"supportedOS": "windows|mac",
+	"editEnabled": true,
+	"runOnStartup": true
+}
