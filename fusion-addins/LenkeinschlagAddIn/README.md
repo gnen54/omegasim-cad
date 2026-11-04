@@ -1,5 +1,7 @@
 # Fusion-Add-In „Lenkeinschlag“
 
+![Vorderräder bei vollem Lenkeinschlag, Karosserie durchsichtig (Ansicht von unten)](../../bilder/lenkeinschlag-unteransicht.png)
+
 Legt in Fusion einen Knopf **Lenkeinschlag** an (Konstruktion → Volumenkörper → Prüfen und Dienstprogramme → Add-Ins).
 
 - Findet alle Drehgelenke der Konstruktion
