@@ -1,6 +1,6 @@
 # Porsche-Kurzchassis mit lenkbarer Vorderachse
 
-Fusion-Archiv **`CH-PorscheKurzChassisKomplett.f3z`** (ca. 67 MB, Download unter [Releases](../../../releases)).
+Fusion-Archiv **[`CH-PorscheKurzChassisKomplett.f3z`](CH-PorscheKurzChassisKomplett.f3z)** (ca. 67 MB; auf GitHub die Datei öffnen und „Download raw file“ wählen).
 
 Eigene Nachkonstruktion des Porsche-Chassis für Carrera HYBRID (1:50), als gekürztes Chassis, komplett mit:
 

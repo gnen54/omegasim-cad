@@ -8,7 +8,7 @@ Mehr dazu im Wiki: [CAD und 3D-Druck](https://omegasim.miraheze.org/wiki/CAD_und
 
 | Ordner | Inhalt | Lizenz |
 |---|---|---|
-| [`vorderachse/`](vorderachse/) | Porsche-Kurzchassis komplett mit lenkbarer Vorderachse als Fusion-Archiv (Download unter [Releases](../../releases)) | CC BY 4.0 |
+| [`vorderachse/`](vorderachse/) | Porsche-Kurzchassis komplett mit lenkbarer Vorderachse als Fusion-Archiv (`.f3z`, ca. 67 MB) | CC BY 4.0 |
 | [`fusion-addins/LenkeinschlagAddIn/`](fusion-addins/LenkeinschlagAddIn/) | Fusion-Add-In „Lenkeinschlag“: Vorderräder per Lenkwinkel bewegen, pendeln lassen, Lenkfreiraum als Körper erzeugen | MIT |
 
 ## Hinweis
